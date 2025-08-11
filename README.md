@@ -1,21 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noah Weinstein</h1>
 <h4 align="center">Lover of clean code and outspoken proponent cast iron pans.</h4>
-
----
-
-<h3 align="center">💼 Experience</h3>
-
 <p align="center">
-  <b>Co-Founder</b> — <a href="https://www.frontstep.ai" target="_blank">frontstep.ai</a>
-</p>
-<p align="center">
-  <b>Technical Product Management Intern</b> — SiPhox Health (YC S20)
-</p>
-<p align="center">
-  <b>Technical Product Management Co-op</b> — SiPhox Health (YC S20)
-</p>
-<p align="center">
-  <b>Software Engineer Co-op</b> — Flexcar
+  Currently doing software engineering at <b>Flexcar</b> during the day, and building <a href="https://www.frontstep.ai" target="_blank"><b>frontstep.ai</b></a> at night.
 </p>
 
 
