@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noah Weinstein</h1>
-<h4 align="center">Lover of clean code and outspoken proponent cast iron pans.</h4>
+<h4 align="center">Lover of clean code and outspoken proponent of cast iron pans.</h4>
 <p align="center">
   Currently doing software engineering at <b>Flexcar</b> during the day, and building <a href="https://www.frontstep.ai" target="_blank"><b>frontstep.ai</b></a> at night.
 </p>
